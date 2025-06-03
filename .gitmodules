@@ -1,0 +1,3 @@
+[submodule "modules/submodule-repo"]
+	path = modules/submodule-repo
+	url = https://github.com/gurusatura/submodule-repo.git
